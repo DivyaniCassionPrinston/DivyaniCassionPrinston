@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm an computer engineering undergraduate <br>
+- 🔭 I'm a computer engineering undergraduate <br>
 - ⚡ I'm currently pursuing my undergraduate degree at the University of Jaffna
 -  🌱 I’m currently learning full stack development
 -  📫 How to reach me: [https://www.linkedin.com/in/divyani-cassion-prinston/]

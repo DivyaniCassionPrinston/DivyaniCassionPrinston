@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I'm a computer engineering undergraduate <br>
 - ⚡ I'm currently pursuing my undergraduate degree at the University of Jaffna
--  🌱 I’m currently learning full stack development
+- 🌱 I’m passionate about DevOps, Cloud, and Network Engineering.
 -  📫 How to reach me: [https://www.linkedin.com/in/divyani-cassion-prinston/]
 
 
